@@ -1,0 +1,12 @@
+<html>
+</head>
+    <body>
+   <php
+'Tokyo', 'Mexico City', 'New York City', 'Mumbai', 'Seoul', 'Shanghai', 'Lagos', 'Buenos Aires', 'Cairo', 'London'
+
+   'Japan' => 'Tokyo', 'Mexico' => 'Mexico City', 'USA' => 'New York City', 'India' => 'Mumbai', 'Korea' => 'Seoul', 'China' => 'Shanghai', 'Nigeria' => 'Lagos', 'Argentina' => 'Buenos Aires', 'Egypt' => 'Cairo', 'England' => 'London'
+     
+        
+   ?>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Breakfast>
+    <menu>
+        <foodone>
+            <name> Belgian Waffle</name>
+            <price> 5.95</price>
+            <calories> 650</calories>
+        </foodone>
+         <foodtwo>
+            <name> Stawberry Belgian Waffle</name>
+            <price> 7.95</price>
+            <calories> 900</calories>
+        </foodtwo>
+         <foodone>
+            <name> French Toast</name>
+            <price> 4.50</price>
+            <calories> 600</calories>
+        </foodone>
+         <foodone>
+            <name> Homestyle Breakfast</name>
+            <price> 6.95</price>
+            <calories> 950</calories>
+        </foodone>
+    </menu>
+</Breakfast>
